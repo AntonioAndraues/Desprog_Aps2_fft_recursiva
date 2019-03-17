@@ -1,8 +1,10 @@
 #include <stdio.h>
 void main()
-{
-    int c=4;
-    c=c>>1;
-    printf("%d",c);
+{   int n=1;
+    for(int k = 0; k < n-1; k++)
+    {
+        printf("teste");
+    }
+    
     
 }
